@@ -1,4 +1,4 @@
 ase==3.22.1
 wulffpack==1.2
 ipywidgets==7.6.5
-nglview=3.0.3
+nglview==3.0.3
